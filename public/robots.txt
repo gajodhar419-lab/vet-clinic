@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pawsandcare.vercel.app/sitemap.xml
