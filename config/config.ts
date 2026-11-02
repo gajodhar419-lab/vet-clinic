@@ -115,7 +115,7 @@ export const clinicConfig: ClinicConfig = {
         "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12243.595452020501!2d75.13263810781247!3d27.624734299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396ca4c70621cb59%3A0xce23ddc91889a80e!2sPet%20Clinic%20%2F%20Pet%20Doctor%20%2F%20Pet%20Shop%20%2F%20Veterinarian%20%2F%20Vet%20Doctor%20%2F%20Dog%20Hostel!5e1!3m2!1sen!2sin!4v1793530506440!5m2!1sen!2sin",
     },
   ],
-  logo: "/logo.svg",
+  logo: "/favicon.svg",
   heroImage:
     "https://images.unsplash.com/photo-1628009368231-7bb7cfcb0def?auto=format&fit=crop&w=1600&q=80",
   primaryColor: "#1E5AA8",

@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     description: c.tagline,
     images: [c.heroImage],
   },
-  icons: { icon: "/logo.svg", shortcut: "/logo.svg", apple: "/logo.svg" },
+  icons: { icon: "/favicon.svg", shortcut: "/favicon.svg", apple: "/favicon.svg" },
   robots: { index: true, follow: true },
 };
 
