@@ -25,6 +25,7 @@ export interface WorkingHourItem {
 export interface TeamDoctorItem {
   name: string;
   qualification: string;
+  image: string;
 }
 
 export interface ProductItem {
@@ -205,9 +206,9 @@ export const clinicConfig: ClinicConfig = {
     },
   ],
   team: [
-    { name: "Dr. Prachi Dhaka", qualification: "M.V.Sc., Ph.D." },
-    { name: "Dr. Nitesh Dhaka", qualification: "B.V.Sc. & A.H." },
-    { name: "Dr. Shubham Dhaka", qualification: "B.V.Sc. & A.H." },
+    { name: "Dr. Prachi Dhaka", qualification: "M.V.Sc., Ph.D.", image: "/team/prachi.png" },
+    { name: "Dr. Nitesh Dhaka", qualification: "B.V.Sc. & A.H.", image: "/team/nitesh.png" },
+    { name: "Dr. Shubham Dhaka", qualification: "B.V.Sc. & A.H.", image: "/team/shubham.png" },
   ],
   whyChooseUs: [
     { icon: "Award", title: "Experienced Veterinarian", description: "Years of hands-on clinical expertise." },

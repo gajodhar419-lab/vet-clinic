@@ -43,6 +43,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         {
           "--primary": c.primaryColor,
           "--secondary": c.secondaryColor,
+          "--accent": "#0D9488",
         } as React.CSSProperties
       }
     >

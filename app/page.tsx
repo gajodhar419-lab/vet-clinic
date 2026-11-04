@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <Hero />
-      <Services limit={4} />
+      <Services />
       <Products />
       <WhyChooseUs />
       <Doctor />
